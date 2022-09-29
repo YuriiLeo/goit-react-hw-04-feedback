@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { ButtonWrapper, Button } from './FeedbackOptions.styled';
 
 export default function FeedbackOptions({ onLeaveFeedback, options }) {
-    console.log(options);
+    // console.log(options);
     // console.log(" Obj",Object.values(options));
   return (
       <ButtonWrapper>
